@@ -1,0 +1,39 @@
+{
+  Craft_Sculpter: [
+
+   {
+      Name:"Running Rabbit Sculpture",
+      Materials: "5x Light Lumber, 3x Little Claw, 1x White Lunarium",
+      Grade: "Average: MOV SPD +1%, Fine: MOV SPD +2%, Superb: MOV SPD +3%, Agility +1, Masterpiece: MOV SPD +4%, Agility +2, Transcendent: MOV SPD +6%, Agility +5",   
+      Levelup: "Average => Fine: 50x White Lunarium, 5x Ruby,
+                Fine => Superb: 50x White Lunarium, 5x Sapphire,
+                Superb => Masterpiece: 50x White Lunarium, 5x Emerald,
+                Masterpiece => Transcendent: 100x White Lunarium, 5x Crystal, 5x Vivid Crystallization",
+      Set: "Effect"
+   },
+
+   {
+      Name:"Deer Sculpture",
+      Materials: "5x Light Lumber, 1x Solid Hoof, 1x White Lunarium",
+      Grade: "Average: MAG ATK +10
+          Fine: MAG ATK +25
+        Superb: MAG ATK +40, Intelligence +1
+   Masterpiece: MAG ATK +55, Intelligence +2
+  Transcendent: MAG ATK +80, Intelligence +5",   
+      Levelup: "Average => Fine: 50x White Lunarium, 5x Ruby
+              Fine => Superb: 50x White Lunarium, 5x Sapphire
+       Superb => Masterpiece: 50x White Lunarium, 5x Emerald
+ Masterpiece => Transcendent: 100x White Lunarium, 5x Crystal, 5x Vivid Crystallization",
+      Set: "Effect"
+   }
+
+
+
+
+  ]
+}
+
+
+
+
+
