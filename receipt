@@ -2,3 +2,5 @@ Plain Bread, Satiety: 10, Effects for 15m: Wisdom +1, Great Success: 1x Deliciou
 Croissant, Satiety: 10, Effects for 15m: Charisma +1, Great Success: 1x Delicious Croissant, 1x Flour 1x Yeast 2x Butter;;
 Gingerbread Cookie, Satiety: 30, Effects for 15m: Charisma +5, Great Success: 1x Delicious Gingerbread Cookie, 3x Flour 2x Ginger 3x Sugar;;
 Pancake, Satiety: 30, Effects for 15m: Strength +10, Great Success: 1x Delicious Pancake, 3x Flour 2x Egg 2x Butter 2x Honey;;
+Muffin, Satiety: 30, Effects for 15m: Wisdom +5, Great Success: 1x Delicious Muffin, 2x Egg 2x Butter 2x Chocolate;;
+Pretzel, Satiety: 10, Effects for 15m: Intelligence +1, Great Success: 1x Delicious Pretzel, Flour Yeast 2x Sugar;;
